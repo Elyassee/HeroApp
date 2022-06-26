@@ -1,0 +1,10 @@
+query Repos($topic:String!, $first:Int!){
+  topic(name: $topic) {
+    repositories(first: $first) {
+      nodes {
+        name
+        stargazerCount
+      }
+    }
+  }
+}
