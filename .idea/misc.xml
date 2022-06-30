@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Elyasse/AndroidStudioProjects/HeroApp/app/src/main/res/layout/activity_main.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/Elyasse/AndroidStudioProjects/HeroApp/app/src/main/res/layout/RepoLayout.xml" value="0.1503623188405797" />
+        <entry key="..\:/Users/Elyasse/AndroidStudioProjects/HeroApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Elyasse/AndroidStudioProjects/HeroApp/app/src/main/res/layout/card_layout.xml" value="0.4" />
+        <entry key="..\:/Users/Elyasse/AndroidStudioProjects/HeroApp/app/src/main/res/layout/test1.xml" value="0.259963768115942" />
       </map>
     </option>
   </component>
